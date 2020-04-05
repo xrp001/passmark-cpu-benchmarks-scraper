@@ -6,9 +6,11 @@ Note: The function is imperfect, very simple.
 
 ## Usage
 
-Modify the code in ```CPU_Info-single.ipynb``` and use it to find the information of a single CPU. The searched information will be saved in ```CPU_Info-single.json```.
+ For single CPU:
+Modify the code in ```CPU_Info-single.ipynb``` and use it to scrape the information of a single CPU. The scraped information will be saved in ```CPU_Info-single.json```.
 
-First specify the cpu list that needs to be searched in ```cpu_list.txt```, and then use ```CPU_Info-multiple.ipynb``` to search. The searched information will be saved in ```CPU_Info-multiple.json```.
+For multiple CPU:
+First specify the CPU list that needs to be scraped in ```cpu_list.txt```, and then use ```CPU_Info-multiple.ipynb``` to scrape. The scraped information will be saved in ```CPU_Info-multiple.json```.
 
 ![cpu_list.txt](https://wx4.sinaimg.cn/large/6a8c0fe1gy1gdj6ubw93aj206z0h5753.jpg)
 
